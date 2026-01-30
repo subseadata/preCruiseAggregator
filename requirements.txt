@@ -1,0 +1,16 @@
+# Core Data Science
+pandas
+numpy
+requests
+
+# Geospatial
+geopandas
+shapely
+fiona
+pyproj
+netCDF4
+
+# APIs
+pygbif
+pyobis
+# wget is handled by standard libs or specific requests in the script
