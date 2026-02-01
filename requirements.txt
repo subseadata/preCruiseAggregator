@@ -13,4 +13,7 @@ netCDF4
 # APIs
 pygbif
 pyobis
-# wget is handled by standard libs or specific requests in the script
+
+# File manipulation
+zipfile
+wget
