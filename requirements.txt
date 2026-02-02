@@ -9,11 +9,11 @@ shapely
 fiona
 pyproj
 netCDF4
+rasterio
 
 # APIs
 pygbif
 pyobis
 
 # File manipulation
-zipfile
 wget
